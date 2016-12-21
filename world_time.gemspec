@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["hkame6926@gmail.com"]
 
   spec.summary       = "This gem returns world time"
-  spec.description   = "This gem returns world time"
+  spec.description   = "You can easily return local time in the world"
   spec.homepage      = "https://github.com/HISAS/world_time"
   spec.license       = "MIT"
 
